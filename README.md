@@ -5,8 +5,6 @@ Admin Login & Password (You can change this in phpmyadmin):<br/>
 Login: admin <br>
 Password: admin<br>
 
-# Screenshots
-
 # Technologies Used
 <ul>
 <a href="https://www.mysql.com/"><li>MySQL</a></li>
