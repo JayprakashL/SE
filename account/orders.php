@@ -272,7 +272,11 @@ include 'includes/wallet.php';
   <footer class="page-footer">
     <div class="footer-copyright">
       <div class="container">
+<<<<<<< HEAD
         <span>Copyright © 2023 <a class="grey-text text-lighten-4" href="#" target="_blank">Students</a> All rights reserved.</span>
+=======
+        <span>Copyright © 2017 <a class="grey-text text-lighten-4" href="#" target="_blank">Students</a> All rights reserved.</span>
+>>>>>>> b8648aabdf74a16ebdc28771d6fc1ab70917915e
         <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="#">Students</a></span>
         </div>
     </div>
